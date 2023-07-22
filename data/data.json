@@ -1,0 +1,68 @@
+[
+    {
+      "id": 0,
+      "logo": "https://decagon.institute/static/media/decagon.18e1e74149bf346e03ceb8c52e3b3177.svg",
+      "organization": "Decagon",
+      "industry": "IT Services and IT Consulting",
+      "createdAt": 2018,
+      "products": ["Software Development", " Agile Methodology",  " Education"],
+      "address": "Austin, Texas",
+      "ceo": "Chika Nwobi",
+      "countriesOperating": ["US", "Nigeria"],
+      "noOfEmployees":609,
+      "description": "We recruit high-potential individuals, convert them to world-class software engineers and place them with global companies looking to scale their dev capacity."
+    },
+    {
+      "id": 1,
+      "logo": "https://www.gettonote.com/assets/images/logo-b.png",
+      "organization": "Tonote",
+      "industry": "Software Development",
+      "createdAt": 2021,
+      "products": ["Remote Online Notarization", " Affidavits", " Notary Public", " Electronic Signature"," Online Business Closing", " Online Business Closing"," eSignature", " Digital Locker", " Certified True Copy", " Document Sharing", " Online Signature", " System of Agreement", " Online Notary", " Remote Signing", " Digital Transaction Closing", " Digital Real Estate Agreement", " FinTech Agreement and Transaction", " LegalTech", " Digital Signature"
+    ],
+      "address": "Victoria Island, Lagos",
+      "ceo": "Fikayo Durosinmi-Etti",
+      "countriesOperating": "Nigeria",
+      "noOfEmployees":50,
+      "description": "ToNote is building a digital trust infrastructure for Africa. Today, we are helping people sign, notarise and verify essential documents fully online."
+    },
+    {
+      "id": 2,
+      "logo": "",
+      "organization": "node ninja",
+      "industry": "Software Development",
+      "createdAt": "2020-08-12T19:04:55.455Z",
+      "products": ["developers","pizza"],
+      "address": "sangotedo",
+      "ceo": "cn",
+      "countriesOperating": "Taiwan",
+      "noOfEmployees":2,
+      "description": ""
+    },
+    {
+      "id": 3,
+      "logo": "",
+      "organization": "node ninja",
+      "industry": "Software Development",
+      "createdAt": "2020-08-12T19:04:55.455Z",
+      "products": ["developers","pizza"],
+      "address": "sangotedo",
+      "ceo": "cn",
+      "countriesOperating": "Taiwan",
+      "noOfEmployees":2,
+      "description": ""
+    },
+    {
+      "id": 4,
+      "logo": "",
+      "organization": "node ninja",
+      "industry": "",
+      "createdAt": "2020-08-12T19:04:55.455Z",
+      "products": ["developers","pizza"],
+      "address": "sangotedo",
+      "ceo": "cn",
+      "countriesOperating": "Taiwan",
+      "noOfEmployees":2,
+      "description": ""
+    }
+]
